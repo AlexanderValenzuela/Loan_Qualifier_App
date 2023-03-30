@@ -1,0 +1,1001 @@
+   50  cd 01-Financial-Programming-Python
+   51  ls
+   52  cd 1
+   53  ls
+   54  cd Activities
+   55  ls
+   56  cd desktop
+   57  ./
+   58  cd ./
+   59  cd cd ..
+   60  cd ..
+   61  cd ..
+   62  cd ..
+   63  cd ..
+   64  cd ..
+   65  cd ..
+   66  pwd
+   67  ls
+   68  cd desktop
+   69  ls
+   70  cd Git_Hub
+   71  ls
+   72  cd ".."
+   73  cd ~/.
+   74  python app.py
+   75  cd desktop
+   76  ls
+   77  cd Fintech
+   78  ls
+   79  cd UCB-VIRT-FIN-PT-03-2023-U-B
+   80  ls
+   81  cd ~/./
+   82  cd desktop
+   83  ls
+   84  cd Fintech_Modules
+   85  ls
+   86  cd Module\ 2
+   87  ls
+   88  cd 01_Loan_Qualifier_Financial_Calculations
+   89  ls
+   90  cd unsolved
+   91  ls
+   92  python app.py
+   93  ls
+   94  python app.py
+   95  python app.py
+   96  python app.py
+   97  python app.py
+   98  python app.py
+   99  conda activate dev
+  100  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  101  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  102  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  103  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  104  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  105  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  106  conda activate dev
+  107  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  108  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  109  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  110  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  111  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  112  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  113  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  114  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  115  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  116  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  117  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  118  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  119  conda activate dev
+  120  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  121  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  122  conda activate dev
+  123  conda activate dev
+  124  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  125  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  126  conda activate dev
+  127  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  128  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  129  conda activate dev
+  130  conda activate dev
+  131  conda activate dev
+  132  cd /Users/alexvalenzuela
+  133  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/cli.py
+  134  cd /Users/alexvalenzuela
+  135  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/cli.py
+  136  cd /Users/alexvalenzuela
+  137  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/cli.py
+  138  cd /Users/alexvalenzuela
+  139  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/cli.py
+  140  cd /Users/alexvalenzuela
+  141  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  142  cd /Users/alexvalenzuela
+  143  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  144  cd /Users/alexvalenzuela
+  145  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  146  cd /Users/alexvalenzuela
+  147  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  148  cd /Users/alexvalenzuela
+  149  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  150  cd /Users/alexvalenzuela
+  151  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  152  cd /Users/alexvalenzuela
+  153  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  154  cd /Users/alexvalenzuela
+  155  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  156  cd /Users/alexvalenzuela
+  157  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  158  cd /Users/alexvalenzuela
+  159  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  160  cd /Users/alexvalenzuela
+  161  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/name.py
+  162  cd /Users/alexvalenzuela/Desktop
+  163  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  164  conda activate dev
+  165  cd /Users/alexvalenzuela/Desktop
+  166  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  167  cd /Users/alexvalenzuela/Desktop
+  168  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  169  cd /Users/alexvalenzuela/Desktop
+  170  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  171  cd /Users/alexvalenzuela/Desktop
+  172  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  173  cd /Users/alexvalenzuela/Desktop
+  174  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  175  cd /Users/alexvalenzuela/Desktop
+  176  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  177  cd /Users/alexvalenzuela/Desktop
+  178  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  179  cd /Users/alexvalenzuela/Desktop
+  180  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  181  cd /Users/alexvalenzuela/Desktop
+  182  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  183  cd /Users/alexvalenzuela/Desktop
+  184  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  185  cd /Users/alexvalenzuela/Desktop
+  186  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  187  cd /Users/alexvalenzuela/Desktop
+  188  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  189  cd /Users/alexvalenzuela/Desktop
+  190  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  191  cd /Users/alexvalenzuela/Desktop
+  192  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  193  cd /Users/alexvalenzuela/Desktop
+  194  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  195  cd /Users/alexvalenzuela/Desktop
+  196  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  197  cd /Users/alexvalenzuela/Desktop
+  198  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  199  cd /Users/alexvalenzuela/Desktop
+  200  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  201  cd /Users/alexvalenzuela/Desktop
+  202  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/name.py
+  203  conda activate dev
+  204  cd /Users/alexvalenzuela/Desktop
+  205  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  206  cd /Users/alexvalenzuela/Desktop
+  207  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  208  cd /Users/alexvalenzuela/Desktop
+  209  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  210  cd /Users/alexvalenzuela/Desktop
+  211  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  212  cd /Users/alexvalenzuela/Desktop
+  213  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  214  cd /Users/alexvalenzuela/Desktop
+  215  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  216  cd /Users/alexvalenzuela/Desktop
+  217  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/cli.py
+  218  python cli.py --pants=true
+  219  python cli.py --pants=true
+  220  python cli.py --pants=true
+  221  python cli.py --pants=true
+  222  python cli.py --pants=true
+  223  python cli.py --pants=true
+  224  python cli.py --pants=false
+  225  python cli.py --pants=false
+  226  python cli.py --pants=false
+  227  python cli.py --pants=false
+  228  python cli.py --pants=false
+  229  python cli.py --pants=false
+  230  python cli.py --pants=false
+  231  conda activate dev
+  232  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  233  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  234  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  235  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  236  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  237  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  238  python app.py --credit_score=750
+  239  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  240  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  241  python app.py --credit_score=750
+  242  python app.py
+  243  python app.py --credit_score=500
+  244  python app.py --credit_score=600
+  245  python app.py --credit_score=750 --debt=3000 --income=50000
+  246  python app.py --credit_score=750 --debt=3000 --income=50000
+  247  python app.py --credit_score-750 --debt=3000 --income=50000
+  248  python app.py --credit_score=750 --debt=3000 --income=50000
+  249  python app.py --credit_score=600 --debt=5000 --income=45000
+  250  python app.py --debt=5000 --income=45000 --credit_score=600
+  251  conda activate dev
+  252  dialog.py
+  253  python dialog.py
+  254  python dialog.py
+  255  cd desktop
+  256  python dialog.py
+  257  python dialog.py
+  258  python dialog.py
+  259  conda activate dev
+  260  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  261  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  262  python app.py --credit_score=750 --debt=5000 --income=20000
+  263  python app.py --credit_score=750 --debt=5000 --income=20000
+  264  python app.py --credit_score=750 --debt=5000 --income=20000
+  265  python app.py --credit_score=750 --debt=5000 --income=20000
+  266  python app.py --credit_score=750 --debt=5000 --income=20000
+  267  conda activate dev
+  268  python app.py --credit_score=750 --debt=5000 --income=20000
+  269  conda activate dev
+  270  ls
+  271  python app.py --credit_score=750 --debt=5000 --income=20000
+  272  conda activate dev
+  273  cd /Users/alexvalenzuela/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  274  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  275  python app.py --credit_score=750 --debt=5000 --income=20000
+  276  python app.py --credit_score=750 --debt=5000 --income=20000
+  277  conda activate dev
+  278  conda deactivate
+  279  conda activate dev
+  280  python app.py --credit score=750 --debt=5000 --income=20000
+  281  cd desktop
+  282  ls
+  283  cd ..
+  284  ls
+  285  cd Downloads
+  286  ls
+  287  pwd
+  288  ls
+  289  conda activate dev
+  290  python app.py --credit_score=750 --debt=5000 --income=20000
+  291  python app.py --credit_score=750 --debt=5000 --income=20000
+  292  conda activate dev
+  293  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  294  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  295  python app.py --credit_score=750 --debt=5000 --income=20000
+  296  python app.py
+  297  cd "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  298  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/Fintech_Modules/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  299  conda activate dev
+  300  cd desktop
+  301  ls
+  302  cd Fintech
+  303  ls
+  304  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  305  ls
+  306  git status
+  307  conda activate dev
+  308  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved
+  309  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  310  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved
+  311  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  312  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved
+  313  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  314  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved
+  315  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  316  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/05_Stu_Conditionals/Unsolved
+  317  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/05_Stu_Conditionals/Unsolved/conditionals.py
+  318  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved
+  319  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved/functions.py
+  320  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Solved
+  321  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Solved/functions.py
+  322  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Solved
+  323  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Solved/functions.py
+  324  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved
+  325  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved/functions.py
+  326  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved
+  327  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved/functions.py
+  328  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved
+  329  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/07_Stu_Functions/Unsolved/functions.py
+  330  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  331  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  332  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  333  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  334  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  335  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  336  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  337  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  338  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  339  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  340  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  341  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  342  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  343  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  344  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  345  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  346  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  347  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  348  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  349  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  350  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  351  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  352  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  353  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  354  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  355  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  356  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  357  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  358  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  359  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  360  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  361  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  362  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  363  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  364  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  365  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  366  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  367  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  368  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  369  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  370  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  371  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  372  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  373  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  374  cd /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved
+  375  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Fintech/UCB-VIRT-FIN-PT-03-2023-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  376  conda activate dev
+  377  pwd
+  378  cd loan_analyzer
+  379  pwd
+  380  python loan_analyzer.py
+  381  python loan_analyzer.py
+  382  python loan_analyzer.py
+  383  python loan_analyzer.py
+  384  python loan_analyzer.py
+  385  python loan_analyzer.py
+  386  python loan_analyzer.py
+  387  python loan_analyzer.py
+  388  python loan_analyzer.py
+  389  python loan_analyzer.py
+  390  python loan_analyzer.py
+  391  python loan_analyzer.py
+  392  python loan_analyzer.py
+  393  python loan_analyzer.py
+  394  python loan_analyzer.py
+  395  python loan_analyzer.py
+  396  python loan_analyzer.py
+  397  python loan_analyzer.py
+  398  python loan_analyzer.py
+  399  python loan_analyzer.py
+  400  python loan_analyzer.py
+  401  python loan_analyzer.py
+  402  conda activate dev
+  403  python loan_analyzer.py
+  404  python loan_analyzer.py
+  405  python loan_analyzer.py
+  406  conda activate dev
+  407  cd /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer
+  408  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer/loan_analyzer.py
+  409  python loan_analyzer.py
+  410  conda activate dev
+  411  conda activate dev
+  412  python loan_analyzer.py
+  413  python loan_analyzer.py
+  414  python loan_analyzer.py
+  415  python loan_analyzer.py
+  416  python loan_analyzer.py
+  417  python loan_analyzer.py
+  418  python loan_analyzer.py
+  419  python loan_analyzer.py
+  420  python loan_analyzer.py
+  421  python loan_analyzer.py
+  422  python loan_analyzer.py
+  423  python loan_analyzer.py
+  424  python loan_analyzer.py
+  425  python loan_analyzer.py
+  426  python loan_analyzer.py
+  427  python loan_analyzer.py
+  428  python loan_analyzer.py
+  429  python loan_analyzer.py
+  430  python loan_analyzer.py
+  431  python loan_analyzer.py
+  432  python loan_analyzer.py
+  433  python loan_analyzer.py
+  434  python loan_analyzer.py
+  435  python loan_analyzer.py
+  436  python loan_analyzer.py
+  437  python loan_analyzer.py
+  438  python loan_analyzer.py
+  439  python loan_analyzer.py
+  440  python loan_analyzer.py
+  441  python loan_analyzer.py
+  442  python loan_analyzer.py
+  443  python loan_analyzer.py
+  444  python loan_analyzer.py
+  445  python loan_analyzer.py
+  446  python loan_analyzer.py
+  447  conda activate dev
+  448  python loan_analyzer.py
+  449  conda activate dev
+  450  cd /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer
+  451  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer/loan_analyzer.py
+  452  cd .
+  453  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python Untitled-1
+  454  conda activate dev
+  455  conda activate dev
+  456  cd /Users/alexvalenzuela/Desktop
+  457  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/def multiplication(number1, number2):.py"
+  458  cd /Users/alexvalenzuela/Desktop
+  459  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/def multiplication(number1, number2):.py"
+  460  cd /Users/alexvalenzuela/Desktop
+  461  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/def multiplication(number1, number2):.py"
+  462  code .
+  463  ls
+  464  cd Desktop
+  465  ls
+  466  cd Fintech
+  467  ls
+  468  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  469  ls
+  470  git status
+  471  git status
+  472  git status
+  473  git pull
+  474  git status
+  475  ls
+  476  git status
+  477  git pull
+  478  pwd
+  479  cd ..
+  480  cd ..
+  481  ls
+  482  cd Git_Hub
+  483  ls
+  484  cd Loan_Analyzer
+  485  ls
+  486  git status
+  487  git commit -m "Parts 1-3completed"
+  488  git status
+  489  git add
+  490  git status
+  491  git add loan_analyzer.py
+  492  git commit -m "Completed part 1-3"
+  493  git push
+  494  cd `./
+  495  cd `/"."
+  496  cd ~/.
+  497  conda activate dev
+  498  ls
+  499  cd desktop
+  500  ls
+  501  cd Git_Hub
+  502  ls
+  503  cd Loan_Analyzer
+  504  ls
+  505  git status
+  506  git add loan_analyzer.py
+  507  git commit -m "completed all parts"
+  508  git status
+  509  git push
+  510  git add inexpensive_loans.csv
+  511  git commit -m "initial commit"
+  512  git status
+  513  git push
+  514  conda activate dev
+  515  conda list pandas
+  516  conda list jupyterlab
+  517  conda deactivate
+  518  conda remove --name dev --all
+  519  conda info --envs
+  520  conda update conda
+  521  conda update anaconda
+  522  conda create -n dev python=3.7 anaconda
+  523  conda info --envs
+  524  conda activate dev
+  525  conda list pandas
+  526  conda list jupyterlab
+  527  conda list
+  528  ipykernel --user --name dev --display-name "Python (dev)"
+  529  python -m ipykernel --user --name dev --display-name "Python (dev)"
+  530  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  531  jupyter lab
+  532  conda activate dev
+  533  jupyter lab
+  534  exit
+  535  conda deactivate dev
+  536  conda activate dev
+  537  jupyter lab
+  538  conda activate dev
+  539  jupyter lab
+  540  pwd
+  541  cd ..
+  542  cd ..
+  543  ls
+  544  cd ..
+  545  ls
+  546  cd desktop
+  547  ls
+  548  cd ..
+  549  ls
+  550  conda deactivate
+  551  ls
+  552  pwd
+  553  ls
+  554  cd Desktop
+  555  ls
+  556  cd Fintech
+  557  ls
+  558  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  559  ls
+  560  git status
+  561  conda activate dev
+  562  la
+  563  conda activate dev
+  564  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved"
+  565  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  566  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  567  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  568  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  569  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  570  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  571  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  572  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  573  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  574  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  575  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  576  conda activate dev
+  577  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  578  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  579  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  580  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  581  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  582  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  583  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  584  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  585  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  586  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  587  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  588  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  589  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  590  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  591  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  592  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  593  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  594  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  595  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  596  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  597  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  598  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  599  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  600  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  601  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  602  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  603  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  604  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  605  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  606  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  607  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  608  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  609  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  610  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  611  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  612  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  613  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  614  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  615  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  616  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  617  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  618  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  619  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  620  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  621  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  622  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  623  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  624  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  625  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  626  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  627  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  628  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  629  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  630  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  631  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  632  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  633  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  634  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  635  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  636  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  637  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  638  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  639  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  640  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  641  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  642  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  643  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  644  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  645  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  646  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  647  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  648  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  649  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  650  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  651  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  652  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  653  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  654  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  655  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  656  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  657  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  658  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  659  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  660  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  661  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  662  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  663  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  664  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  665  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  666  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  667  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  668  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  669  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  670  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  671  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  672  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  673  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved"
+  674  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py"
+  675  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  676  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  677  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  678  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  679  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  680  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  681  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  682  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  683  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  684  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  685  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  686  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  687  cd "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved"
+  688  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python "/Users/alexvalenzuela/Desktop/GitLab Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+  689  pwd
+  690  ls
+  691  cd Desktop
+  692  ls
+  693  cd Fintech
+  694  ls
+  695  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  696  git status
+  697  git pull
+  698  ls
+  699  git --version
+  700  git status
+  701  exit
+  702  conda activate dev
+  703  conda activate dev
+  704  conda activate dev
+  705  cd desktop
+  706  ls
+  707  pwd
+  708  cd ..
+  709  cd ..
+  710  cd ..
+  711  cd ..
+  712  cd ..
+  713  cd ..
+  714  ls
+  715  cd 2
+  716  ls
+  717  cd Activities
+  718  ls
+  719  cd 01_Ins_ATM_Application
+  720  ls
+  721  cd Unsolved
+  722  ls
+  723  cd atm
+  724  ls
+  725  cd requirements.txt
+  726  pwd
+  727  ls
+  728  pip install -r requirements.txt
+  729  conda activate dev
+  730  conda create -n atmdev python=3.7 anaconda
+  731  conda activate atmdev
+  732  conda activate dev
+  733  python atm.py
+  734   /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/atmdev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52054 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py 
+  735  conda activate atmdev
+  736   cd /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2 ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/atmdev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52076 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py 
+  737   cd /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2 ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/atmdev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52087 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py 
+  738   cd /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2 ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/atmdev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52096 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py 
+  739  conda activate dev
+  740  jupyter lab
+  741  pwd
+  742  cd desktop
+  743  ls
+  744  cd Fintech
+  745  ls
+  746  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  747  ls
+  748  gig status
+  749  git status
+  750  git status
+  751  exit
+  752   /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52274 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py 
+  753  conda activate dev
+  754   cd /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52323 -- /Users/alexvalenzuela/Desktop/GitLab\ Files/UCB-VIRT-FIN-PT-03-2023-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py 
+  755  conda activate dev
+  756  pwd
+  757  ls
+  758  cd desktop
+  759  ls
+  760  cd GitLab\ Files
+  761  ls
+  762  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  763  LS
+  764  CD 02-Financial-Applications-Python
+  765  LS
+  766  CD 02-Financial-Applications-Python
+  767  ls
+  768  cd 02-Financial-Applications-Python
+  769  ls
+  770  cd 2
+  771  ls
+  772  cd A
+  773  cd Activities
+  774  ls
+  775  cd 01_Ins_ATM_Application
+  776  ls
+  777  cd Unsolved
+  778  ls
+  779  cd atm
+  780  ls
+  781  python atm.py
+  782  cd ~/.
+  783  pwd
+  784  ls
+  785  cd desktop
+  786  ls
+  787  ls git_hub
+  788  ls
+  789  ls
+  790  cd Git_hub
+  791  ls
+  792  ls
+  793  cd .
+  794  ls
+  795  cd .
+  796  ls
+  797  cd ..
+  798  ls
+  799  cd GitHub_Upload
+  800  ls
+  801  ls
+  802  cd ..
+  803  cd Git_Hub
+  804  ls
+  805  cd Loan_Analyzer
+  806  ls
+  807  git status
+  808  git add "Readme.md"
+  809  git status
+  810  git commit -m "update" 
+  811  git add "README.md"
+  812  git commit -m "update"
+  813  git push
+  814  git status
+  815  git add screen shots
+  816  git add "screen shots"
+  817  git commit -m initial commit
+  818  git status
+  819  git add "loan_analyzer.py"
+  820  git commit -m "update"
+  821  git push
+  822  git status
+  823  git pull
+  824  cd ..
+  825  ls
+  826  cd Loan_Analyzer
+  827  ls
+  828  git status
+  829  git pull
+  830  git status
+  831  git pull
+  832  pwd
+  833  cd ..
+  834  ls
+  835  cd Git_Hub
+  836  ls
+  837  git clone git@github.com:AlexanderValenzuela/Loan_Analyzer.git
+  838  ls
+  839  cd Loan_Analyzer
+  840  ls
+  841  conda activate dev
+  842  cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app
+  843  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py
+  844  conda activate dev
+  845  conda activate dev
+  846  python app.py
+  847  python app.py
+  848   /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53228 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  849   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53239 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  850  python app.py
+  851  python app.py
+  852  python app.py
+  853  python app.py
+  854  python app.py
+  855  python app.py
+  856  python app.py
+  857  python app.py
+  858  python app.py
+  859  python app.py
+  860   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53430 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  861   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53473 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  862   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53526 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/qualifier/utils/fileio.py 
+  863   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53535 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/qualifier/utils/fileio.py 
+  864   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53542 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/qualifier/utils/fileio.py 
+  865   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53551 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  866   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53559 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  867   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53567 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  868   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53574 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  869   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 53579 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  870  conda activate dev
+  871  cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app
+  872  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py
+  873  python app.py
+  874  python app.py
+  875  python app.py
+  876  python app.py
+  877  python app.py
+  878  python app.py
+  879  python app.py
+  880  conda activate dev
+  881  python app.py
+  882  python app.py
+  883  python app.py
+  884  python app.py
+  885  conda activate dev
+  886   /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54753 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  887   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54764 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  888   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54771 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  889   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54778 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  890   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54785 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  891   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54792 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  892   cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app ; /usr/bin/env /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54799 -- /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py 
+  893  conda activate dev
+  894  cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app
+  895  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py
+  896  cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app
+  897  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py
+  898  cd /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app
+  899  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/loan_qualifier_app/app.py
+  900  python app.py
+  901  python app.py
+  902  python app.py
+  903  python app.py
+  904  python app.py
+  905  python app.py
+  906  python app.py
+  907  python app.py
+  908  python app.py
+  909  python app.py
+  910  python app.py
+  911  python app.py
+  912  python app.py
+  913  python app.py
+  914  python app.py
+  915  cd /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer
+  916  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer/loan_analyzer.py
+  917  conda activate dev
+  918  cd /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer
+  919  /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/Git_Hub/Loan_Analyzer/loan_analyzer.py
+  920  conda activate dev
+  921  pip install fire
+  922  fire --version
+  923  pip install questionary
+  924  pwd
+  925  ls
+  926  cd desktop
+  927  pwd
+  928  ls
+  929  cd Fintech
+  930  ls
+  931  cd UCB-VIRT-FIN-PT-03-2023-U-B
+  932  ls
+  933  git status
+  934  git pull
+  935  git status
+  936  cd ~/.
+  937  pwd
+  938  jupyter lab
+  939  python app.py
+  940  ls
+  941  cd desktop
+  942  ls
+  943  cd Git_Hub
+  944  ls
+  945  cd Loan_Analyzer
+  946  ls
+  947  git status
+  948  git add
+  949  git add .
+  950  git commit -m "update 03_26_2023"
+  951  git push
+  952  cd ..
+  953  ls
+  954  cd loan_qualifier_app
+  955  git status
+  956  git add "loan_analyzer"
+  957  ls
+  958  ls
+  959  git status
+  960  git status
+  961  pwd
+  962  git status
+  963  ls
+  964  cd ..
+  965  cd ..
+  966  cd ..
+  967  cd ..
+  968  ls
+  969  cd desktop
+  970  ls
+  971  cd Git_Hub
+  972  ls
+  973  cd loan_qualifier_app
+  974  ls
+  975  git status
+  976  git status
+  977  conda activate dev
+  978  python app.py
+  979  conda activate dev
+  980  python app.py
+  981  conda activate dev
+  982  jupyter lab
+  983  cd
+  984  ls
+  985  cd desktop
+  986  ls
+  987  cd Git_Hub
+  988  ls
+  989  git clone git@github.com:AlexanderValenzuela/Loan_Qualifier_App.git
+  990  ls
+  991  cd Loan_Qualifier_App
+  992  ls
+  993  cd ..
+  994  ls
+  995  cd Loan_Qualifier_App
+  996  ls
+  997  git status
+  998  git add "app.py"
+  999  git commit -m "update 03_26_2023"
+ 1000  git push
+ 1001  activate dev conda
+ 1002  conda activate dev
+ 1003  pwd
+ 1004  ls
+ 1005  cd desktop
+ 1006  ls
+ 1007  cd Git_Hub
+ 1008  ls
+ 1009  cd Loan_Qualifier_App
+ 1010  ls
+ 1011  git status
+ 1012  git add "qualifier/utils/fileio.py
+ 1013  git status
+ 1014  git add "fileio.py"
+ 1015  git add.
+ 1016  git status
+ 1017  git add .
+ 1018  git commit -m "update 03_26_2023"
+ 1019  git push
+ 1020  pwd
+ 1021  cd ~./
+ 1022  cd .~/
+ 1023  ~/.
+ 1024  cd ..
+ 1025  cd ..
+ 1026  cd ~./
+ 1027  conda deactivate
+ 1028  cd ~./
+ 1029  cd ~/.
+ 1030  pwd
+ 1031  ls
+ 1032  cd desktop
+ 1033  ls
+ 1034  cd Fintech
+ 1035  ls
+ 1036  cd UCB-VIRT-FIN-PT-03-2023-U-B
+ 1037  ls
+ 1038  git status
+ 1039  git pull
+ 1040  cd ~/.
+ 1041  history 50 > terminal history.txt
+ 1042  conda activate dev
+ 1043  ls
+ 1044  cd Desktop
+ 1045  ls
+ 1046  cd Git_Hub
+ 1047  ls
+ 1048  cd Loan_Qualifier_App
+ 1049  ls
+ 1050  pwd
